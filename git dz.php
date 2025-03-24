@@ -11,3 +11,5 @@
 // git checkout -b just_new_branch
 // create new folder and files in new branch
 // git switch master
+// git remote add origin https://github.com/GabrielRiddimsk/project_two.git
+// git push -u origin master
