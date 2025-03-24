@@ -7,3 +7,4 @@
 // create .gitignore file
 // git add
 // git status
+// git commit -m "first version"
