@@ -10,3 +10,4 @@
 // git commit -m "first version"
 // git checkout -b just_new_branch
 // create new folder and files in new branch
+// git switch master
